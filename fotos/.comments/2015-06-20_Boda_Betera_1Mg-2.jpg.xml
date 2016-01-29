@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note/>
+  <place/>
+  <categories>
+    <category value="abierto"/>
+    <category value="aire"/>
+    <category value="atardecer"/>
+    <category value="banquete"/>
+    <category value="boda"/>
+    <category value="catering"/>
+    <category value="chalet"/>
+    <category value="combite"/>
+    <category value="comida"/>
+    <category value="espacio"/>
+    <category value="fronton"/>
+    <category value="fundacion"/>
+    <category value="libre"/>
+    <category value="mesas"/>
+    <category value="noche"/>
+    <category value="novaterra"/>
+    <category value="sillas"/>
+  </categories>
+</comment>
