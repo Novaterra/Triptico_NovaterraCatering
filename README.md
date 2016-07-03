@@ -2,7 +2,9 @@
 NOVATERRA CATERING
 
 DISEÑO GRAFICO: Actualizacion de folleto en formato triptico cuadrado informativo de Novaterra Catering 2016
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/Triptico_NovaterraCatering/master/dise%C3%B1o.png" width="600"/>
+</p>
 ## REALIZADO CON
 
 El diseños esta realizado con Inkscape programa de sofware libre
